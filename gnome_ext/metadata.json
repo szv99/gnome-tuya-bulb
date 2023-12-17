@@ -1,0 +1,19 @@
+{
+  "name": "Kolorki",
+  "description": "i trički na tik top",
+  "version": "1.0",
+  "shell-version": ["4.42"],
+  "uuid": "kolorki@kropka.com",
+  "url": "https://xd",
+  "gettext-domain": "kolorki",
+  "dependencies": [
+    {
+      "name": "gtk3",
+      "version": "3.24"
+    },
+    {
+      "name": "soup",
+      "version": "2.74"
+    }
+  ]
+}
